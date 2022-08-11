@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798850870571",
+    "firebase_url": "https://locationtracker-d557c.firebaseio.com",
+    "project_id": "locationtracker-d557c",
+    "storage_bucket": "locationtracker-d557c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798850870571:android:bbfc3d68b689b9e0cf696e",
+        "android_client_info": {
+          "package_name": "ultramodern.activity.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798850870571-hjjti0jp5v56bchas8or1rddc0c3krig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYbTicUKNHZs3oVByrbpqSYGTVy7V_2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798850870571-hjjti0jp5v56bchas8or1rddc0c3krig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
